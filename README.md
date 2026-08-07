@@ -1,3 +1,7 @@
+# Hi — I’m U24day 👋
+
+Full‑stack developer • Open‑source enthusiast • Lifelong learner
+
 - 👋 Hi, I’m @U24day
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,4 +13,4 @@
 <!---
 U24day/U24day is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->

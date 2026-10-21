@@ -14,14 +14,9 @@ I enjoy building real-world projects, learning new technologies, solving problem
 - 💻 Interested in Full-Stack Web Development
 - ☁️ Exploring AWS & Cloud Technologies
 - 🤖 Interested in Machine Learning & Data Science
-- 📱 Experienced in building Flutter Android applications
 - 🌱 Currently improving my skills in Web Development, AWS & Machine Learning
 - 🤝 Open to collaborating on interesting projects and open-source work
-- 🚀 Always learning and building something new
-
----
-
-🛠️ Tech Stack
+- 🚀 Always learning and building something new Tech Stack
 
 Languages
 
@@ -45,7 +40,7 @@ Cloud & Tools
 
 Other Technologies
 
-"JWT" "Cloudinary" "Razorpay" "MLflow" "DagsHub"
+"JWT" "Cloudinary" "Razorpay"
 
 ---
 
@@ -53,7 +48,7 @@ Other Technologies
 
 AWS ML Engineer Intern — GRRAS Solutions Pvt. Ltd.
 
-2026 – Present
+May 2026 – Aug 2026
 
 - Worked with AWS cloud services and Machine Learning workflows.
 - Gained hands-on experience with Python and cloud-based application development.
